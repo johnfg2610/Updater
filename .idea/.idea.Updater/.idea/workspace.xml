@@ -2,11 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7339536-8c55-4263-a412-f7c612eaae27" name="Default" comment="Reformat and cleanup">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Version" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Updater/Version.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Updater/packages.config" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Version.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../TestApp/bin/Debug/TestApp.exe" afterPath="$PROJECT_DIR$/../../TestApp/bin/Debug/TestApp.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../TestApp/bin/Debug/TestApp.exe.mdb" afterPath="$PROJECT_DIR$/../../TestApp/bin/Debug/TestApp.exe.mdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../TestApp/bin/Debug/Updater.dll" afterPath="$PROJECT_DIR$/../../TestApp/bin/Debug/Updater.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../TestApp/bin/Debug/Updater.dll.mdb" afterPath="$PROJECT_DIR$/../../TestApp/bin/Debug/Updater.dll.mdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../TestApp/obj/Debug/TestApp.exe" afterPath="$PROJECT_DIR$/../../TestApp/obj/Debug/TestApp.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../TestApp/obj/Debug/TestApp.exe.mdb" afterPath="$PROJECT_DIR$/../../TestApp/obj/Debug/TestApp.exe.mdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Updater/bin/Debug/Updater.dll" afterPath="$PROJECT_DIR$/../../Updater/bin/Debug/Updater.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Updater/bin/Debug/Updater.dll.mdb" afterPath="$PROJECT_DIR$/../../Updater/bin/Debug/Updater.dll.mdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Updater/obj/Debug/Updater.dll" afterPath="$PROJECT_DIR$/../../Updater/obj/Debug/Updater.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Updater/obj/Debug/Updater.dll.mdb" afterPath="$PROJECT_DIR$/../../Updater/obj/Debug/Updater.dll.mdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/riderModule.iml" afterPath="$PROJECT_DIR$/riderModule.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Updater.sln" afterPath="$PROJECT_DIR$/../../Updater.sln" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../TestApp/Program.cs" afterPath="$PROJECT_DIR$/../../TestApp/Program.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Updater/Class1.cs" afterPath="$PROJECT_DIR$/../../Updater/Class1.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Updater/Updater.csproj" afterPath="$PROJECT_DIR$/../../Updater/Updater.csproj" />
     </list>
     <ignored path="Updater.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,12 +42,27 @@
       <file leaf-file-name="Class1.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../Updater/Class1.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="287">
+              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
               <folding>
-                <marker date="1481452732722" expanded="true" signature="6:31" ph="..." />
-                <marker date="1481452732722" expanded="true" signature="50:348" ph="{...}" />
-                <marker date="1481452732722" expanded="true" signature="76:346" ph="{...}" />
+                <marker date="1481464409519" expanded="true" signature="6:77" ph="..." />
+                <marker date="1481464409519" expanded="true" signature="96:520" ph="{...}" />
+                <marker date="1481464409519" expanded="true" signature="122:518" ph="{...}" />
+                <marker date="1481464409519" expanded="true" signature="190:452" ph="{...}" />
+                <marker date="1481464409519" expanded="true" signature="491:512" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Version.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Updater/Version.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+              <folding>
+                <marker date="1481464098792" expanded="true" signature="17:134" ph="{...}" />
+                <marker date="1481464098792" expanded="true" signature="45:132" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -44,13 +71,13 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../../TestApp/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="289">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               <folding>
-                <marker date="1481453208197" expanded="true" signature="6:97" ph="..." />
-                <marker date="1481453208197" expanded="true" signature="116:430" ph="{...}" />
-                <marker date="1481453208197" expanded="true" signature="145:428" ph="{...}" />
-                <marker date="1481453208197" expanded="true" signature="198:422" ph="{...}" />
+                <marker date="1481464430383" expanded="true" signature="6:97" ph="..." />
+                <marker date="1481464430383" expanded="true" signature="116:332" ph="{...}" />
+                <marker date="1481464430383" expanded="true" signature="145:330" ph="{...}" />
+                <marker date="1481464430383" expanded="true" signature="199:324" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -64,6 +91,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/../../Updater/Version.cs" />
         <option value="$PROJECT_DIR$/../../Updater/Class1.cs" />
         <option value="$PROJECT_DIR$/../../TestApp/Program.cs" />
       </list>
@@ -193,7 +221,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1481451808220</updated>
-      <workItem from="1481451811563" duration="1584000" />
+      <workItem from="1481451811563" duration="5740000" />
     </task>
     <task id="LOCAL-00001" summary="Reformat and cleanup">
       <created>1481451852760</created>
@@ -213,7 +241,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1584000" />
+    <option name="totallyTimeSpent" value="5740000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -232,10 +260,10 @@
       <window_info id="Errors in solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32884902" sideWeight="0.5219062" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UnitTesting" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32884902" sideWeight="0.47809377" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -267,27 +295,40 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../Updater/Version.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding>
+            <marker date="1481464098792" expanded="true" signature="17:134" ph="{...}" />
+            <marker date="1481464098792" expanded="true" signature="45:132" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../../Updater/Class1.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="287">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
           <folding>
-            <marker date="1481452732722" expanded="true" signature="6:31" ph="..." />
-            <marker date="1481452732722" expanded="true" signature="50:348" ph="{...}" />
-            <marker date="1481452732722" expanded="true" signature="76:346" ph="{...}" />
+            <marker date="1481464409519" expanded="true" signature="6:77" ph="..." />
+            <marker date="1481464409519" expanded="true" signature="96:520" ph="{...}" />
+            <marker date="1481464409519" expanded="true" signature="122:518" ph="{...}" />
+            <marker date="1481464409519" expanded="true" signature="190:452" ph="{...}" />
+            <marker date="1481464409519" expanded="true" signature="491:512" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../TestApp/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="289">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding>
-            <marker date="1481453208197" expanded="true" signature="6:97" ph="..." />
-            <marker date="1481453208197" expanded="true" signature="116:430" ph="{...}" />
-            <marker date="1481453208197" expanded="true" signature="145:428" ph="{...}" />
-            <marker date="1481453208197" expanded="true" signature="198:422" ph="{...}" />
+            <marker date="1481464430383" expanded="true" signature="6:97" ph="..." />
+            <marker date="1481464430383" expanded="true" signature="116:332" ph="{...}" />
+            <marker date="1481464430383" expanded="true" signature="145:330" ph="{...}" />
+            <marker date="1481464430383" expanded="true" signature="199:324" ph="{...}" />
           </folding>
         </state>
       </provider>

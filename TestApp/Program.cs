@@ -8,12 +8,11 @@ namespace TestApp
 {
     internal class Program
     {
+
         public static void Main(string[] args)
         {
-            using (var client = new WebClient())
-            {
-                Console.WriteLine(client.DownloadString("https://raw.githubusercontent.com/Johnfg12/Updater/master/Version"));
-            }
+            Class1 class1 = new Class1();
+            Console.WriteLine(class1.GetVersionInformation());
         }
     }
 }

@@ -1,16 +1,29 @@
 ﻿using System;
 using System.Net;
+using System.Xml;
+using Newtonsoft.Json.Linq;
 
 namespace Updater
 {
     public class Class1
     {
-        public void CheckSorce(string location)
+
+        public string GetVersionInformation(string location)
         {
-            using (var client = new WebClient())
-            {
-                client.DownloadFile("https://raw.githubusercontent.com/Johnfg12/Updater/master/Version", "txt");
-            }
+            var client = new WebClient();
+
+            string json = @client.DownloadString(location);
+
+            JObject o = JObject.Parse(json);
+
+            string ProjectName = (string)o["ProjectName"];
+
+            return ProjectName;
+        }
+
+        public string UpdateVersion()
+        {
+
         }
     }
 }
