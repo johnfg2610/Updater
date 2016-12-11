@@ -1,0 +1,7 @@
+/home/john/Updater/TestApp/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/john/Updater/TestApp/bin/Debug/TestApp.exe.mdb
+/home/john/Updater/TestApp/bin/Debug/TestApp.exe
+/home/john/Updater/TestApp/obj/Debug/TestApp.exe
+/home/john/Updater/TestApp/obj/Debug/TestApp.exe.mdb
+/home/john/Updater/TestApp/bin/Debug/Updater.dll
+/home/john/Updater/TestApp/bin/Debug/Updater.dll.mdb

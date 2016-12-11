@@ -2,7 +2,10 @@
 <module type="RIDER_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../TestApp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../Updater" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../TestApp/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../TestApp/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../Updater/bin" />
       <excludeFolder url="file://$MODULE_DIR$/../../Updater/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../packages" />
