@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7339536-8c55-4263-a412-f7c612eaae27" name="Default" comment="Reformat and cleanup">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Updater/Version.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Updater/packages.config" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Version.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../TestApp/bin/Debug/TestApp.exe" afterPath="$PROJECT_DIR$/../../TestApp/bin/Debug/TestApp.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../TestApp/bin/Debug/TestApp.exe.mdb" afterPath="$PROJECT_DIR$/../../TestApp/bin/Debug/TestApp.exe.mdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../TestApp/bin/Debug/Updater.dll" afterPath="$PROJECT_DIR$/../../TestApp/bin/Debug/Updater.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../TestApp/bin/Debug/Updater.dll.mdb" afterPath="$PROJECT_DIR$/../../TestApp/bin/Debug/Updater.dll.mdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../TestApp/obj/Debug/TestApp.exe" afterPath="$PROJECT_DIR$/../../TestApp/obj/Debug/TestApp.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../TestApp/obj/Debug/TestApp.exe.mdb" afterPath="$PROJECT_DIR$/../../TestApp/obj/Debug/TestApp.exe.mdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Updater/bin/Debug/Updater.dll" afterPath="$PROJECT_DIR$/../../Updater/bin/Debug/Updater.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Updater/bin/Debug/Updater.dll.mdb" afterPath="$PROJECT_DIR$/../../Updater/bin/Debug/Updater.dll.mdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Updater/obj/Debug/Updater.dll" afterPath="$PROJECT_DIR$/../../Updater/obj/Debug/Updater.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Updater/obj/Debug/Updater.dll.mdb" afterPath="$PROJECT_DIR$/../../Updater/obj/Debug/Updater.dll.mdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../TestApp/Program.cs" afterPath="$PROJECT_DIR$/../../TestApp/Program.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Updater/Class1.cs" afterPath="$PROJECT_DIR$/../../Updater/Class1.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Updater/Updater.csproj" afterPath="$PROJECT_DIR$/../../Updater/Updater.csproj" />
+    <list default="true" id="c7339536-8c55-4263-a412-f7c612eaae27" name="Default" comment="Switched to JSON format">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../packages/Newtonsoft.Json.9.0.2-beta1/lib/net20/Newtonsoft.Json.xml" afterPath="$PROJECT_DIR$/../../packages/Newtonsoft.Json.9.0.2-beta1/lib/net20/Newtonsoft.Json.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../packages/Newtonsoft.Json.9.0.2-beta1/lib/net35/Newtonsoft.Json.xml" afterPath="$PROJECT_DIR$/../../packages/Newtonsoft.Json.9.0.2-beta1/lib/net35/Newtonsoft.Json.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../packages/Newtonsoft.Json.9.0.2-beta1/lib/net40/Newtonsoft.Json.xml" afterPath="$PROJECT_DIR$/../../packages/Newtonsoft.Json.9.0.2-beta1/lib/net40/Newtonsoft.Json.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../packages/Newtonsoft.Json.9.0.2-beta1/lib/net45/Newtonsoft.Json.xml" afterPath="$PROJECT_DIR$/../../packages/Newtonsoft.Json.9.0.2-beta1/lib/net45/Newtonsoft.Json.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../packages/Newtonsoft.Json.9.0.2-beta1/lib/netstandard1.0/Newtonsoft.Json.xml" afterPath="$PROJECT_DIR$/../../packages/Newtonsoft.Json.9.0.2-beta1/lib/netstandard1.0/Newtonsoft.Json.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../packages/Newtonsoft.Json.9.0.2-beta1/lib/netstandard1.1/Newtonsoft.Json.xml" afterPath="$PROJECT_DIR$/../../packages/Newtonsoft.Json.9.0.2-beta1/lib/netstandard1.1/Newtonsoft.Json.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../packages/Newtonsoft.Json.9.0.2-beta1/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.xml" afterPath="$PROJECT_DIR$/../../packages/Newtonsoft.Json.9.0.2-beta1/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../packages/Newtonsoft.Json.9.0.2-beta1/lib/portable-net45+wp80+win8+wpa81/Newtonsoft.Json.xml" afterPath="$PROJECT_DIR$/../../packages/Newtonsoft.Json.9.0.2-beta1/lib/portable-net45+wp80+win8+wpa81/Newtonsoft.Json.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../packages/Newtonsoft.Json.9.0.2-beta1/tools/install.ps1" afterPath="$PROJECT_DIR$/../../packages/Newtonsoft.Json.9.0.2-beta1/tools/install.ps1" />
     </list>
     <ignored path="Updater.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -221,7 +213,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1481451808220</updated>
-      <workItem from="1481451811563" duration="5740000" />
+      <workItem from="1481451811563" duration="5789000" />
     </task>
     <task id="LOCAL-00001" summary="Reformat and cleanup">
       <created>1481451852760</created>
@@ -237,11 +229,18 @@
       <option name="project" value="LOCAL" />
       <updated>1481452208101</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Switched to JSON format">
+      <created>1481464465438</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1481464465438</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5740000" />
+    <option name="totallyTimeSpent" value="5789000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -257,13 +256,14 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32884902" sideWeight="0.49730977" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Errors in solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32884902" sideWeight="0.5219062" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5219062" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UnitTesting" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32884902" sideWeight="0.47809377" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32884902" sideWeight="0.50269026" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -285,7 +285,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Reformat and cleanup" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reformat and cleanup" />
+    <MESSAGE value="Switched to JSON format" />
+    <option name="LAST_COMMIT_MESSAGE" value="Switched to JSON format" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -317,6 +318,14 @@
             <marker date="1481464409519" expanded="true" signature="190:452" ph="{...}" />
             <marker date="1481464409519" expanded="true" signature="491:512" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Updater/Updater.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="58" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
+          <folding />
         </state>
       </provider>
     </entry>
